@@ -1,4 +1,4 @@
-#Git
+#Git & githab
 git --version  // версия Гита
 git init  // инициализация репозитория
 git status // информация о статусе репозитория
@@ -13,6 +13,11 @@ git branch test // создание ветки test
 git branch -D test // удаление ветки test
 git checkout test // переход на ветку тест
 git checkout -b test // создать ветку тест и перейти на нее
+git merge readme // объединить текущую ветку с readme  
+git pull // скачать с  гитхаба
+git push // залить на гитхаб
 
 #Bash
 reset  // очистка экрана
+
+#GitHub
